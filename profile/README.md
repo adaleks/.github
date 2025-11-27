@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img width="400" height="400" alt="adaleks-logo" src="https://github.com/user-attachments/assets/5d7b3912-8f01-4ff6-83be-26d4d6e6aa51" />
+  <img height="128" alt="adaleks-logo" src="https://github.com/user-attachments/assets/5d7b3912-8f01-4ff6-83be-26d4d6e6aa51" />
 </p>
 
 <h1 align="center">Adaleks Technology</h1>
